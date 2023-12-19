@@ -1,3 +1,0 @@
-[submodule "submodule/utils"]
-	path = submodule/utils
-	url = https://github.com/areylis/utils.git
